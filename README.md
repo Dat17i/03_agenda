@@ -5,7 +5,7 @@
 <!--* [My First Website](https://github.com/dat17v1/2_03_my_first_website/blob/master/README.md)-->
 
 ## Exercise
-* Create a new Spring Boot Application
+* [Create a new Spring Boot Application]()
   * Create a MoviesController
     * Create a method that can return an index.html page that shows the titles of 3 movies
 
