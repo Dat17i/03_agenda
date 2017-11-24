@@ -1,4 +1,4 @@
-# #3 User Interfaces
+# #3 Getting started with Spring Boot initializer
 
 * [Hello Spring](https://github.com/StudentsAdministration/03_hello_spring/blob/master/README.md)
 * [Your First Website](https://github.com/StudentsAdministration/03_your_first_website)
