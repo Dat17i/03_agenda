@@ -2,7 +2,7 @@
 
 * [Hello Spring](https://github.com/StudentsAdministration/03_hello_spring/blob/master/README.md)
 * [Your First Website](https://github.com/StudentsAdministration/03_your_first_website)
-* [Spring Framework @Annotations Explained](https://github.com/StudentsAdministration/03_annotations/blob/master/README.md)
+* [Spring Framework lements explained](https://github.com/StudentsAdministration/03_spring_framework_elements_explained/blob/master/README.md)
 <!--* [My First Website](https://github.com/dat17v1/2_03_my_first_website/blob/master/README.md)-->
 
 ## Exercise
